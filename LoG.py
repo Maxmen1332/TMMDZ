@@ -10,7 +10,7 @@ window_name = "Laplace Demo"
 # [variables]
 
 # [load]
-imageName ='D:\DZTMM\pu.jpg'
+imageName ='pu.jpg'
 
 src = cv.imread(cv.samples.findFile(imageName), cv.IMREAD_COLOR) # Load an image
 
